@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Use a DayNight theme with an ActionBar -->
+    <style name="Theme.Assignment1" parent="Theme.Material3.DayNight">
+        <item name="colorPrimary">#1A4B84</item>
+    </style>
+</resources>
